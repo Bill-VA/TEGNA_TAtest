@@ -4,5 +4,10 @@ body {
     margin: 0 auto;
     max-width: 960px;
     color: #1B1B1B;
-    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-family: "Arial", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+h1{color: teal;}
+
+.floatRight {
+	float: right;
 }
