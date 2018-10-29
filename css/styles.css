@@ -7,3 +7,7 @@ body {
     font-family: "Arial", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 }
 h1{color: teal;}
+
+.floatRight {
+	float: right;
+}
